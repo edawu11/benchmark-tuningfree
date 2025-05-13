@@ -1,4 +1,4 @@
-# benchmark-tuningfree
+# Introduction
 This repository contains the code and experiments for our project in CSC6022 at CUHK-SZ. We implement and evaluate six tuning-free optimization methods on various neural network architectures and datasets.
 
 # Methods
