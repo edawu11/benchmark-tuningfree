@@ -1,8 +1,8 @@
 # Introduction
-This repository contains the code and experiments for our project in CSC6022 at CUHK-SZ. We implement and evaluate six tuning-free optimization methods on various neural network architectures and datasets.
+This repository contains the code and experiments for our project in CSC6022 at CUHK-SZ. Six tuning-free optimization methods are implemented and evaluated on various neural network architectures and datasets.
 
 # Methods
-We incorporate the following tuning-free schedules, drawing from their official implementations:
+In this project, there are six tuning-free schedules, drawing from their official implementations:
 
 - **COCOB:** [parameterfree](https://github.com/bremen79/parameterfree)  
 - **DoG / L-DoG:** [dog](https://github.com/formll/dog)  
@@ -16,4 +16,4 @@ We incorporate the following tuning-free schedules, drawing from their official 
 - **`pic`**: Contains all figures generated during the project. The notebook `Figure Repetition.ipynb` can be used to reproduce these plots.  
 - **`run.py`**: Provides a simple demonstration of training a ResNet18 on CIFAR-10 using different tuning-free optimizers.
 
-We hope this repository assists you in exploring and understanding the tuning-free schedules. Enjoy experimenting!
+I hope this repository assists you in exploring and understanding the tuning-free schedules. Enjoy experimenting!
